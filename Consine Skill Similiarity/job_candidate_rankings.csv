@@ -1,0 +1,41 @@
+job_id,job_title,cand_id,name,similarity_score
+JOB_001,Junior Medical Imaging Software Engineer,CAND_001,Alice Lee,0.42714735104142426
+JOB_001,Junior Medical Imaging Software Engineer,CAND_017,Quinn Adams,0.19207153407816027
+JOB_001,Junior Medical Imaging Software Engineer,CAND_007,Grace Patel,0.15521292098792502
+JOB_001,Junior Medical Imaging Software Engineer,CAND_004,David Kim,0.1295967541533716
+JOB_001,Junior Medical Imaging Software Engineer,CAND_020,Tom Nguyen,0.12408652309117463
+JOB_001,Junior Medical Imaging Software Engineer,CAND_012,Leo Martinez,0.12174944682481606
+JOB_001,Junior Medical Imaging Software Engineer,CAND_011,Karen Wong,0.11195689058247552
+JOB_001,Junior Medical Imaging Software Engineer,CAND_015,Olivia Park,0.08927271483800181
+JOB_001,Junior Medical Imaging Software Engineer,CAND_003,Carmen Zhou,0.07510654424482208
+JOB_001,Junior Medical Imaging Software Engineer,CAND_018,Riley Thompson,0.04947472380273259
+JOB_001,Junior Medical Imaging Software Engineer,CAND_016,Peter Zhang,0.04344043831608156
+JOB_001,Junior Medical Imaging Software Engineer,CAND_009,Isabella Rossi,0.038007063296742354
+JOB_001,Junior Medical Imaging Software Engineer,CAND_006,Felix Chen,0.03131323882488497
+JOB_001,Junior Medical Imaging Software Engineer,CAND_019,Sofia Hernandez,0.02835576942726074
+JOB_001,Junior Medical Imaging Software Engineer,CAND_005,Emily Tran,0.01744676754632849
+JOB_001,Junior Medical Imaging Software Engineer,CAND_008,Henry Zhao,0.016785099525570463
+JOB_001,Junior Medical Imaging Software Engineer,CAND_010,Jack Miller,0.009437321433349818
+JOB_001,Junior Medical Imaging Software Engineer,CAND_014,Noah Green,0.006379259412164495
+JOB_001,Junior Medical Imaging Software Engineer,CAND_002,Brian Singh,0.0
+JOB_001,Junior Medical Imaging Software Engineer,CAND_013,Mia Johnson,0.0
+JOB_002,Full-Stack Web Developer,CAND_002,Brian Singh,0.3091725500158468
+JOB_002,Full-Stack Web Developer,CAND_010,Jack Miller,0.1935536067486865
+JOB_002,Full-Stack Web Developer,CAND_016,Peter Zhang,0.14531479326169341
+JOB_002,Full-Stack Web Developer,CAND_014,Noah Green,0.10916867154011256
+JOB_002,Full-Stack Web Developer,CAND_008,Henry Zhao,0.09704422734278366
+JOB_002,Full-Stack Web Developer,CAND_020,Tom Nguyen,0.07703222423139229
+JOB_002,Full-Stack Web Developer,CAND_019,Sofia Hernandez,0.06824379414362305
+JOB_002,Full-Stack Web Developer,CAND_013,Mia Johnson,0.036001440287468704
+JOB_002,Full-Stack Web Developer,CAND_003,Carmen Zhou,0.03011842625913132
+JOB_002,Full-Stack Web Developer,CAND_018,Riley Thompson,0.025894688548863176
+JOB_002,Full-Stack Web Developer,CAND_005,Emily Tran,0.02326336958357516
+JOB_002,Full-Stack Web Developer,CAND_004,David Kim,0.018100167880522343
+JOB_002,Full-Stack Web Developer,CAND_011,Karen Wong,0.013387012539784408
+JOB_002,Full-Stack Web Developer,CAND_001,Alice Lee,0.011481168393971604
+JOB_002,Full-Stack Web Developer,CAND_009,Isabella Rossi,0.010868512606402076
+JOB_002,Full-Stack Web Developer,CAND_012,Leo Martinez,0.0
+JOB_002,Full-Stack Web Developer,CAND_015,Olivia Park,0.0
+JOB_002,Full-Stack Web Developer,CAND_017,Quinn Adams,0.0
+JOB_002,Full-Stack Web Developer,CAND_007,Grace Patel,0.0
+JOB_002,Full-Stack Web Developer,CAND_006,Felix Chen,0.0
